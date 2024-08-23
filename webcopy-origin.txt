@@ -1,0 +1,2344 @@
+Uri: https://assets.uniteinteractive.com/ckeditor/images/magnifier_overlay.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\ckeditor\images\magnifier_overlay.png
+Content Type: image/png
+
+Uri: https://assets.uniteinteractive.com/font-awesome/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://assets.uniteinteractive.com/fonts/?family=bebas_ycdt,font-awesome,icomoon2_ycdt,icomoon_arrows,icomoon_ycdt,roboto_medium_ycdt,roboto_regular_ycdt
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\index.htm
+Content Type: text/css
+
+Uri: https://assets.uniteinteractive.com/fonts/?family=bebas_ycdt,font-awesome,icomoon2_ycdt,icomoon_arrows,icomoon_ycdt,roboto_medium_ycdt,roboto_regular_ycdt);:root{--dark-fill:
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\index-1.htm
+Content Type: text/css
+
+Uri: https://assets.uniteinteractive.com/fonts/?family=font-awesome
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\index-2.htm
+Content Type: text/css
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=bebasneue-webfont.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=bebasneue-webfont.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-1.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=bebasneue-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-3.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=bebasneue-webfont.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-2.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-4.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-5.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-9.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-8.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-6.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=fontawesomewebfont_20170406122633.woff2
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-7.php
+Content Type: application/font-woff2
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon2_20191213164623.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-10.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon2_20191213164623.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-11.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon2_20191213164623.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-14.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon2_20191213164623.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-13.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon2_20191213164623.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-12.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_20221104145221.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-20.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_20221104145221.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-21.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_20221104145221.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-24.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_20221104145221.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-23.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_20221104145221.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-22.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_arrows_20201028114439.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-15.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_arrows_20201028114439.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-16.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_arrows_20201028114439.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-19.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_arrows_20201028114439.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-18.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=icomoon_arrows_20201028114439.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-17.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-25.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-26.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-30.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-29.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-27.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_medium_20170306144612.woff2
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-28.php
+Content Type: application/font-woff2
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.eot
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-31.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.eot&
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-32.php
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.svg
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-36.php
+Content Type: image/svg+xml
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.ttf
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-35.php
+Content Type: application/x-font-truetype
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.woff
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-33.php
+Content Type: application/x-font-woff
+
+Uri: https://assets.uniteinteractive.com/fonts/font.php?font=roboto_regular_20170306144705.woff2
+File Name: C:\Downloaded Web Sites\www.cipa.com\fonts\font-34.php
+Content Type: application/font-woff2
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\www.cipa.com\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/
+File Name: C:\Downloaded Web Sites\www.cipa.com\index.htm
+Content Type: text/html
+
+Uri: https://www.cipa.com/A.banner_includes,,_bannerRotator.css,,qv==0+fancybox-master,,_dist,,_jquery.fancybox.min.css,Mcc.Wc1Vf3TrV0.css.pagespeed.cf.Rq32QPE97W.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\A.banner_includes,,_bannerRotator.css,,qv==0 fancybox-master,,_dist,,_jquery.fancybox.min.css,Mcc.Wc1Vf3TrV0.css.pagespeed.cf.Rq32QPE97W.css
+Content Type: text/css
+
+Uri: https://www.cipa.com/A.cipa.css,,qv==0+cssmenu.css,,qv==0,Mcc.ZzWFE5IIxb.css.pagespeed.cf.tPSPJh7mB7.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\A.cipa.css,,qv==0 cssmenu.css,,qv==0,Mcc.ZzWFE5IIxb.css.pagespeed.cf.tPSPJh7mB7.css
+Content Type: text/css
+
+Uri: https://www.cipa.com/A.cms_tools.css,qv=0.pagespeed.cf.tU6BXovmbF.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\A.cms_tools.css,qv=0.pagespeed.cf.tU6BXovmbF.css
+Content Type: text/css
+
+Uri: https://www.cipa.com/about
+File Name: C:\Downloaded Web Sites\www.cipa.com\about.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/avoid-harmful-interactions-multiple-medications
+File Name: C:\Downloaded Web Sites\www.cipa.com\avoid-harmful-interactions-multiple-medications.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/banner_includes/A.bannerRotator.css,qv=0.pagespeed.cf.eg5luKCx8F.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\banner_includes\A.bannerRotator.css,qv=0.pagespeed.cf.eg5luKCx8F.css
+Content Type: text/css
+
+Uri: https://www.cipa.com/banner_includes/bannerRotator.js?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\banner_includes\bannerRotator.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/banner_includes/bannerRotator_jquery.js?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\banner_includes\bannerRotator_jquery.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/beware-of-rogues
+File Name: C:\Downloaded Web Sites\www.cipa.com\beware-of-rogues.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cipa-calls-for-ban-of-online-sale-of-opioids
+File Name: C:\Downloaded Web Sites\www.cipa.com\cipa-calls-for-ban-of-online-sale-of-opioids.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cipa-certification
+File Name: C:\Downloaded Web Sites\www.cipa.com\cipa-certification.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cipa-membership
+File Name: C:\Downloaded Web Sites\www.cipa.com\cipa-membership.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cipa-safe-medicine-access
+File Name: C:\Downloaded Web Sites\www.cipa.com\cipa-safe-medicine-access.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cipa-safe-pharmacies
+File Name: C:\Downloaded Web Sites\www.cipa.com\cipa-safe-pharmacies.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/common_functions_v001.js?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\common_functions_v001.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/contact
+File Name: C:\Downloaded Web Sites\www.cipa.com\contact.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/cssmenu.js?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\cssmenu.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/daily-maintenance-medications
+File Name: C:\Downloaded Web Sites\www.cipa.com\daily-maintenance-medications.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/fancybox-master/dist/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\www.cipa.com\fancybox-master\dist\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://www.cipa.com/fancybox-master/dist/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\www.cipa.com\fancybox-master\dist\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/faqs
+File Name: C:\Downloaded Web Sites\www.cipa.com\faqs.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/favicon.ico?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.cipa.com/governance
+File Name: C:\Downloaded Web Sites\www.cipa.com\governance.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/how-to-store-medications
+File Name: C:\Downloaded Web Sites\www.cipa.com\how-to-store-medications.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/images/arrow_nav.gif.pagespeed.ce._CzOURt__7.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\arrow_nav.gif.pagespeed.ce._CzOURt__7.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/icon_excel.gif.pagespeed.ce.iYRPmXbpHx.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\icon_excel.gif.pagespeed.ce.iYRPmXbpHx.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/icon_pdf.gif.pagespeed.ce.zWiLJvSDFQ.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\icon_pdf.gif.pagespeed.ce.zWiLJvSDFQ.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/icon_powerpoint.gif.pagespeed.ce.I6nZj2btz_.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\icon_powerpoint.gif.pagespeed.ce.I6nZj2btz_.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/icon_word.gif.pagespeed.ce.SOtw07DxXR.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\icon_word.gif.pagespeed.ce.SOtw07DxXR.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-7.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-6.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-5.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-4.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-3.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-2.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-1.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-12.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-11.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-10.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-9.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083320&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-8.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-20.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-19.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-18.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-17.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-16.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-15.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-14.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-13.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-25.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-24.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-23.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-22.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083328&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-21.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-33.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-32.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-31.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-30.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-29.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-28.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-27.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-26.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-38.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-37.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-36.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-35.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083335&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-34.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-46.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-45.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-44.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-43.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-42.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-41.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-40.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-39.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-51.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-50.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-49.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-48.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083336&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-47.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-59.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-58.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-57.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-56.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-55.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-54.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-53.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-52.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-64.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-63.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-62.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-61.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083337&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-60.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-72.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-71.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-70.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-69.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-68.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-67.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-66.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-65.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-77.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-76.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-75.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-74.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083338&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-73.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-85.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-84.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-83.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-82.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-81.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-80.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-79.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-78.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-90.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-89.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-88.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-87.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083340&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-86.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-98.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-97.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-96.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-95.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-94.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-93.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-92.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-91.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-103.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-102.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-101.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-100.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083341&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-99.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-111.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-110.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-109.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-108.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-107.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-106.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-105.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-104.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-116.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-115.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-114.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-113.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083342&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-112.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-124.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-123.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-122.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-121.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-120.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-119.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-118.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-117.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-129.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-128.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-127.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-126.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083343&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-125.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-137.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-136.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-135.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-134.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-133.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-132.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-131.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-130.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-142.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-141.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-140.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-139.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083344&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-138.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-150.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-149.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-148.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-147.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-146.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-145.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-144.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-143.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-155.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-154.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-153.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-152.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083345&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-151.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-163.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-162.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-161.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-160.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-159.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-158.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-157.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-156.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-168.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-167.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-166.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-165.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083346&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-164.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-176.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-175.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-174.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-173.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-172.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-171.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-170.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-169.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-181.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-180.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-179.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-178.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083828&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-177.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-189.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-188.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-187.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-186.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-185.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-184.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-183.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-182.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-194.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-193.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-192.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-191.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083829&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-190.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-202.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-201.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-200.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-199.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-198.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-197.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-196.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-195.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-207.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-206.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-205.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-204.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083830&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-203.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-215.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-214.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-213.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-212.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-211.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-210.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-209.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-208.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-220.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-219.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-218.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-217.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083831&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-216.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-228.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-227.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-226.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-225.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-224.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-223.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-222.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-221.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-233.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-232.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-231.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-230.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083832&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-229.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-241.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-240.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-239.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-238.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-237.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-236.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-235.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-234.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-246.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-245.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-244.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-243.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083833&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-242.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-254.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-253.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-252.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-251.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-250.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-249.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-248.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-247.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-259.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-258.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-257.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-256.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083834&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-255.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-267.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-266.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-265.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-264.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-263.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-262.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-261.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-260.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-272.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-271.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-270.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-269.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083835&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-268.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-280.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-279.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-278.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-277.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-276.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-275.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-274.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-273.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-285.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-284.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-283.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-282.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083836&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-281.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-293.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-292.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-291.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-290.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-289.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-288.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-287.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-286.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-298.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-297.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-296.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-295.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083837&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-294.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-306.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-305.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-304.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-303.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-302.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-301.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-300.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-299.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-311.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-310.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-309.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-308.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718083838&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-307.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-319.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-318.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-317.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-316.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-315.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-314.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-313.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-312.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-324.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-323.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-322.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-321.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084037&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-320.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-332.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-331.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-330.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-329.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-328.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-327.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-326.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-325.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-337.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-336.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-335.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-334.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084038&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-333.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-345.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-344.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-343.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-342.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-341.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-340.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-339.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-338.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-350.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-349.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-348.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-347.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084039&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-346.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-358.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-357.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-356.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-355.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-354.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-353.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-352.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-351.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-363.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-362.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-361.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-360.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084040&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-359.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-371.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-370.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-369.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-368.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-367.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-366.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-365.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-364.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-376.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-375.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-374.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-373.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084041&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-372.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-384.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-383.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-382.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-381.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-380.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-379.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-378.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-377.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-389.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-388.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-387.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-386.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084042&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-385.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-397.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-396.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-395.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-394.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-393.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-392.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-391.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-390.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-402.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-401.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-400.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-399.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084043&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-398.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=114&height=114&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-410.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=120&height=120&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-409.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=144&height=144&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-408.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=152&height=152&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-407.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=167&height=167&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-406.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=180&height=180&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-405.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=268&height=268&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-404.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=512&height=512&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-403.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=57&height=57&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-415.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=60&height=60&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-414.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=72&height=72&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-413.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=76&height=76&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-412.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/image.php?v=20230718084044&width=80&height=80&cropratio=1:1&nocache=true&image=/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\image-411.php
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/line_dotted.gif.pagespeed.ce._9wOeO5pkm.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\line_dotted.gif.pagespeed.ce._9wOeO5pkm.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/mobile_nav_collapse.gif.pagespeed.ce.kLUbniZVX3.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\mobile_nav_collapse.gif.pagespeed.ce.kLUbniZVX3.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/mobile_nav_expand.gif.pagespeed.ce.Di_sdxMG0g.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\mobile_nav_expand.gif.pagespeed.ce.Di_sdxMG0g.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/photos/xabout_map_bg.png.pagespeed.ic.hbATj8QOtF.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\photos\xabout_map_bg.png.pagespeed.ic.hbATj8QOtF.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/photos/xactive_adults_bg.jpg.pagespeed.ic.4SefosWTQ2.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\photos\xactive_adults_bg.jpg.pagespeed.ic.4SefosWTQ2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/images/photos/xcertified_canadian_international_pharmacy.png.pagespeed.ic.eLaC3CsgNP.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\photos\xcertified_canadian_international_pharmacy.png.pagespeed.ic.eLaC3CsgNP.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/photos/xhex_bg.png.pagespeed.ic._TheQI8sNZ.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\photos\xhex_bg.png.pagespeed.ic._TheQI8sNZ.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/site_map_bullet.gif.pagespeed.ce.gby-pfmexc.gif
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\site_map_bullet.gif.pagespeed.ce.gby-pfmexc.gif
+Content Type: image/gif
+
+Uri: https://www.cipa.com/images/xemail_30.png.pagespeed.ic.PdP1T7sLYd.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xemail_30.png.pagespeed.ic.PdP1T7sLYd.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xfacebook_30.png.pagespeed.ic.ScOzHT6z5Q.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xfacebook_30.png.pagespeed.ic.ScOzHT6z5Q.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xicon_arrow_readmore.png.pagespeed.ic.Z7BDl0FJKW.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xicon_arrow_readmore.png.pagespeed.ic.Z7BDl0FJKW.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xicon_file.gif.pagespeed.ic.jx1H8TRwWJ.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xicon_file.gif.pagespeed.ic.jx1H8TRwWJ.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xicon_pdf_nav.png.pagespeed.ic.KiHwF8GV3O.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xicon_pdf_nav.png.pagespeed.ic.KiHwF8GV3O.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xicon_url.png.pagespeed.ic.TyZUmk5BEt.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xicon_url.png.pagespeed.ic.TyZUmk5BEt.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xinstagram_30.png.pagespeed.ic.OLQe2DYvdY.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xinstagram_30.png.pagespeed.ic.OLQe2DYvdY.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xlinkedin_30.png.pagespeed.ic.s6L0yNgHPR.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xlinkedin_30.png.pagespeed.ic.s6L0yNgHPR.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xlogo.png.pagespeed.ic.xzw9wH7Gk7.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xlogo.png.pagespeed.ic.xzw9wH7Gk7.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xlogo_footer.png.pagespeed.ic.ko9TsKqrOw.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xlogo_footer.png.pagespeed.ic.ko9TsKqrOw.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xlogo_mobile.png.pagespeed.ic.OCTwZ0kwjn.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xlogo_mobile.png.pagespeed.ic.OCTwZ0kwjn.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xquote_left.jpg.pagespeed.ic.PkK2yN1lMp.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xquote_left.jpg.pagespeed.ic.PkK2yN1lMp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/images/xquote_right.jpg.pagespeed.ic.bREF9gKl5k.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xquote_right.jpg.pagespeed.ic.bREF9gKl5k.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/images/xth_bg.jpg.pagespeed.ic.AL5t9D_5zh.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xth_bg.jpg.pagespeed.ic.AL5t9D_5zh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/images/xtwitter_30.png.pagespeed.ic.Mv6VMi0rkl.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xtwitter_30.png.pagespeed.ic.Mv6VMi0rkl.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xweb-two-style-wide.png.pagespeed.ic.q911qmsCz2.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xweb-two-style-wide.png.pagespeed.ic.q911qmsCz2.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xyoutube_30.png.pagespeed.ic.WZ0KSYJt5G.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xyoutube_30.png.pagespeed.ic.WZ0KSYJt5G.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/images/xyoutube_play.png.pagespeed.ic.QLgOhpY3aP.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\images\xyoutube_play.png.pagespeed.ic.QLgOhpY3aP.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/jquery.min.js?v=0
+File Name: C:\Downloaded Web Sites\www.cipa.com\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.cipa.com/news
+File Name: C:\Downloaded Web Sites\www.cipa.com\news.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/bings-disservice-to-online-drug-safety
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\bings-disservice-to-online-drug-safety.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/checks-are-best-when-ordering-from-cipa-member-pharmacies
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\checks-are-best-when-ordering-from-cipa-member-pharmacies.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-champions-safe-affordable-medications-for-americans
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-champions-safe-affordable-medications-for-americans.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-continues-to-fight-frauds-using-our-trusted-verification-seal
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-continues-to-fight-frauds-using-our-trusted-verification-seal.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-joins-ranks-of-wikipedia-and-reddit-in-sopa-blackout
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-joins-ranks-of-wikipedia-and-reddit-in-sopa-blackout.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-members-recommend-you-pay-by-check
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-members-recommend-you-pay-by-check.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-safety-protocols-are-the-gold-standard
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-safety-protocols-are-the-gold-standard.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-supports-key-findings-of-survey-from-alliance-for-safe-online-pharmacies
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-supports-key-findings-of-survey-from-alliance-for-safe-online-pharmacies.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-survey-of-americans-finds-64-purchase-medications-from-canada-due-to-affordability
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-survey-of-americans-finds-64-purchase-medications-from-canada-due-to-affordability.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/cipa-trademark-enforcement-project-getting-good-results
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\cipa-trademark-enforcement-project-getting-good-results.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/mail-order-delivery-of-medications-during-covid-19-pandemic
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\mail-order-delivery-of-medications-during-covid-19-pandemic.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/maybe-internet-pharmacies-arent-as-risky-as-we-thought
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\maybe-internet-pharmacies-arent-as-risky-as-we-thought.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/new-us-study-validates-cipas-safety-procedures
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\new-us-study-validates-cipas-safety-procedures.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/separating-the-good-from-the-bad
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\separating-the-good-from-the-bad.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/survey-shows-increasing-use-of-online-pharmacies-among-americans
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\survey-shows-increasing-use-of-online-pharmacies-among-americans.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/the-canadian-international-pharmacy-association-cipa-celebrates-15th-anniversary-100-percent-perfect-safety-record
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\the-canadian-international-pharmacy-association-cipa-celebrates-15th-anniversary-100-percent-perfect-safety-record.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/trust-the-cipa-seal-but-beware-of-internet-imposters-and-fake-certification-marks
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\trust-the-cipa-seal-but-beware-of-internet-imposters-and-fake-certification-marks.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/news/where-to-buy-an-epipen-for-at-least-400-less-than-mylan-charges
+File Name: C:\Downloaded Web Sites\www.cipa.com\news\where-to-buy-an-epipen-for-at-least-400-less-than-mylan-charges.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/ordering-prescriptions-canadian-pharmacies
+File Name: C:\Downloaded Web Sites\www.cipa.com\ordering-prescriptions-canadian-pharmacies.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/pharmacists-corner
+File Name: C:\Downloaded Web Sites\www.cipa.com\pharmacists-corner.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/protecting-enhancing-paitent-lives
+File Name: C:\Downloaded Web Sites\www.cipa.com\protecting-enhancing-paitent-lives.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/protecting-patient-safety-and-privacy
+File Name: C:\Downloaded Web Sites\www.cipa.com\protecting-patient-safety-and-privacy.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/safely-manage-prescriptions-medications
+File Name: C:\Downloaded Web Sites\www.cipa.com\safely-manage-prescriptions-medications.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/staying-on-schedule-with-medications
+File Name: C:\Downloaded Web Sites\www.cipa.com\staying-on-schedule-with-medications.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/verify-a-website
+File Name: C:\Downloaded Web Sites\www.cipa.com\verify-a-website.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/wcm-docs/banners/xcipa_20210112103919.jpg.pagespeed.ic.QO3TL_DO1x.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\banners\xcipa_20210112103919.jpg.pagespeed.ic.QO3TL_DO1x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/docs/cipa-15yrinfographic-final-rev.pdf
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\docs\cipa-15yrinfographic-final-rev.pdf
+Content Type: application/pdf
+
+Uri: https://www.cipa.com/wcm-docs/freetext/20210224162941_full_size_2_1.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\20210224162941_full_size_2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/20210304114507_full_size_2_1.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\20210304114507_full_size_2_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/20210304115845_full_size_2_2.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\20210304115845_full_size_2_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/20210607151857_full_size_4_2.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\20210607151857_full_size_4_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/x20210107163320_full_size_1_1.jpg.pagespeed.ic.Es4Jz0GC-w.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\x20210107163320_full_size_1_1.jpg.pagespeed.ic.Es4Jz0GC-w.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/x20210108085448_full_size_3_2.png.pagespeed.ic.Bnp4Gc2F-D.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\x20210108085448_full_size_3_2.png.pagespeed.ic.Bnp4Gc2F-D.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/wcm-docs/freetext/x20210108094009_full_size_4_1.png.pagespeed.ic.bJDDrcQwzt.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\x20210108094009_full_size_4_1.png.pagespeed.ic.bJDDrcQwzt.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/wcm-docs/freetext/x20210129114044_full_size_2_2.jpg.pagespeed.ic.KEYjKLpXSa.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\x20210129114044_full_size_2_2.jpg.pagespeed.ic.KEYjKLpXSa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/freetext/x20210304114346_full_size_2_2.jpg.pagespeed.ic.EfVBwP0DQ9.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\freetext\x20210304114346_full_size_2_2.jpg.pagespeed.ic.EfVBwP0DQ9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/images/cipa-active-image-300x205.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\cipa-active-image-300x205.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/wcm-docs/images/infographicthumbnail-151x300.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\infographicthumbnail-151x300.png
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/images/jared-caughey-300x218.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\jared-caughey-300x218.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/images/logo/cipa_2002_medium.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\logo\cipa_2002_medium.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/wcm-docs/images/logo/xcipa_2002_medium.png.pagespeed.ic.luZwdcTol3.png
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\logo\xcipa_2002_medium.png.pagespeed.ic.luZwdcTol3.png
+Content Type: image/png
+
+Uri: https://www.cipa.com/wcm-docs/images/logo/xcipa_seal.jpg.pagespeed.ic.30rt8WRM6F.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\logo\xcipa_seal.jpg.pagespeed.ic.30rt8WRM6F.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/images/steven-levitt-300x214.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\images\steven-levitt-300x214.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_champions_safe_meds_for_americans_news_20210304112741.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_champions_safe_meds_for_americans_news_20210304112741.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304101403.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304101403.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304102821.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304102821.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304103548.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304103548.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304104239.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304104239.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304105022.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304105022.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304105116.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304105116.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304111955.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304111955.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_news_20210304112503.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_news_20210304112503.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_safety_record_news_20210304104125.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_safety_record_news_20210304104125.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_seal_news_20210304103234.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_seal_news_20210304103234.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_seal_news_20210304103824.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_seal_news_20210304103824.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/cipa_seal_news_20210304111756.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\cipa_seal_news_20210304111756.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/image-from-rawpixel-id-18650-jpeg_20210304104755.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\image-from-rawpixel-id-18650-jpeg_20210304104755.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/image-from-rawpixel-id-21835-jpeg_20210108113308.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\image-from-rawpixel-id-21835-jpeg_20210108113308.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/image-from-rawpixel-id-2294013-jpeg_20210108113158.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\image-from-rawpixel-id-2294013-jpeg_20210108113158.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/xcipa_news_20210304101004.jpg.pagespeed.ic.WnBsN1Nvxo.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\xcipa_news_20210304101004.jpg.pagespeed.ic.WnBsN1Nvxo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/wcm-docs/news/xcipa_news_20211108140343.jpg.pagespeed.ic.WnBsN1Nvxo.jpg
+File Name: C:\Downloaded Web Sites\www.cipa.com\wcm-docs\news\xcipa_news_20211108140343.jpg.pagespeed.ic.WnBsN1Nvxo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cipa.com/what-is-copd
+File Name: C:\Downloaded Web Sites\www.cipa.com\what-is-copd.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/what-is-diabetes
+File Name: C:\Downloaded Web Sites\www.cipa.com\what-is-diabetes.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/what-is-high-blood-pressure
+File Name: C:\Downloaded Web Sites\www.cipa.com\what-is-high-blood-pressure.html
+Content Type: text/html
+
+Uri: https://www.cipa.com/what-is-ulcerative-colitis
+File Name: C:\Downloaded Web Sites\www.cipa.com\what-is-ulcerative-colitis.html
+Content Type: text/html
+
+Uri: https://www.fda.gov/media/74164/download
+File Name: C:\Downloaded Web Sites\www.cipa.com\media\74164\How-to-Dispose-of-Unused-Medicines-(PDF).pdf
+Content Type: application/pdf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-CC14163ZED
+File Name: C:\Downloaded Web Sites\www.cipa.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.govinfo.gov/content/pkg/BILLS-112hr3261ih/pdf/BILLS-112hr3261ih.pdf
+File Name: C:\Downloaded Web Sites\www.cipa.com\content\pkg\BILLS-112hr3261ih\pdf\BILLS-112hr3261ih.pdf
+Content Type: application/pdf
+
+Uri: https://www.govinfo.gov/content/pkg/BILLS-112s968rs/pdf/BILLS-112s968rs.pdf
+File Name: C:\Downloaded Web Sites\www.cipa.com\content\pkg\BILLS-112s968rs\pdf\BILLS-112s968rs.pdf
+Content Type: application/pdf
+
